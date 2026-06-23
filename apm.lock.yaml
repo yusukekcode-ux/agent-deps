@@ -1,0 +1,16 @@
+lockfile_version: '1'
+generated_at: '2026-06-23T10:21:29.034448+00:00'
+apm_version: 0.20.0
+dependencies:
+- repo_url: vercel-labs/agent-browser
+  host: github.com
+  resolved_commit: 4572acf0d71c0086009206c9c1e2136fc54ec9e5
+  virtual_path: skills/agent-browser
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .claude/skills/agent-browser
+  - .claude/skills/agent-browser/SKILL.md
+  deployed_file_hashes:
+    .claude/skills/agent-browser/SKILL.md: sha256:bb6b4c5aae49ff88addb31312437f94242a3e5aae950503ab4f332e28186c261
+  content_hash: sha256:b93b77d9a63143fcefa7d371c1fceba58f1f310ef76a5f2ad3d4d2077efa8c25

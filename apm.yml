@@ -13,6 +13,7 @@ dependencies:
   - git: remotion-dev/skills
     path: skills/remotion
     alias: remotion-best-practices
+  - vercel-labs/agent-browser/skills/agent-browser
   mcp: []
 includes: auto
 scripts: {}
