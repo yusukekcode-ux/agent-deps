@@ -7,13 +7,13 @@ dependencies:
   - mattpocock/skills/skills/productivity/grill-me
   - anthropics/skills/skills/frontend-design
   - anthropics/skills/skills/skill-creator
+  - vercel-labs/agent-browser
   - git: vercel-labs/agent-skills
     path: skills/react-best-practices
     alias: vercel-react-best-practices
   - git: remotion-dev/skills
     path: skills/remotion
     alias: remotion-best-practices
-  - vercel-labs/agent-browser/skills/agent-browser
   mcp: []
 includes: auto
 scripts: {}
