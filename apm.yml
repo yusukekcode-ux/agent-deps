@@ -12,7 +12,7 @@ dependencies:
     path: skills/react-best-practices
     alias: vercel-react-best-practices
   - git: remotion-dev/skills
-    path: skills/remotion
+    path: skills/remotion-best-practices
     alias: remotion-best-practices
   mcp: []
 includes: auto
